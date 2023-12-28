@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:"gilroy"
+}
+body,html{
+    height:100%;
+    width:100%;
+}
+.main{
+    width: 100vw;
+    background-color: #C5BDB3;
+}
+.nav{
+    width: 100vw;
+    height: 10vh;
+    background-color: #C5BDB3;
+    border-bottom: 1px solid rgba(39, 37, 37, 0.441);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.nav .part1{
+    font-size: 13px;
+    font-weight: 600;
+    font-family: ;
+
+}
